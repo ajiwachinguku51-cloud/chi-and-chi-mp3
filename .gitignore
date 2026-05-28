@@ -1,6 +1,6 @@
-echo .env > .gitignore
-echo node_modules/ >> .gitignore
-echo data/downloads.json >> .gitignore
-echo data/submissions.json >> .gitignore
-echo server.out.log >> .gitignore
-echo server.err.log >> .gitignore
+.env
+node_modules/
+data/downloads.json
+data/submissions.json
+server.out.log
+server.err.log
